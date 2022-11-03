@@ -3,7 +3,6 @@ import math
 import cv2
 import mediapipe as mp
 import pyautogui as pg
-import keyboard
 
 pg.PAUSE = 0
 pg.FAILSAFE = 0
